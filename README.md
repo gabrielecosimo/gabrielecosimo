@@ -2,4 +2,4 @@
 - 👀 I’m interested in everything about coding
 - 🌱 I’m currently learning everything about coding
 - 💞️ I’m looking to collaborate on everything about coding
-- I'm an Italian coder
+- 👨‍💻 I'm an Italian coder 🟩⚪🟥
